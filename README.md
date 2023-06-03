@@ -28,7 +28,12 @@ Contact author's [email](carlos.jesus.caro@gmail.com)
 
 ### Roadmap
 - Short term - Integration with a basic front end (bootstrap)
-- Long term - Full integration with an Angular based front end
+- Long term
+  - Full integration with an Angular based front end
+  - Unit test 
+  - Containers: docker and kubernetes
+  - Jenkins for automation (CI/CD)
+  - IaaS: ansible
 
 
 ### Contributing
